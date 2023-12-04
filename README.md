@@ -1,3 +1,6 @@
+## This is the link of AdInsights Mockup, Please have a look by clicking on link below.
+- [Ad_Insights_Mockup](https://adityaranjan858.github.io/ad_insights_mockup/).
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
