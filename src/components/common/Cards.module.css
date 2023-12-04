@@ -1,0 +1,15 @@
+.cardShadow{
+    -webkit-box-shadow: 0px -1px 12px 0px rgba(198, 200, 224, 1);
+-moz-box-shadow: 0px -1px 12px 0px rgba(198, 200, 224, 1);
+box-shadow: 0px -1px 12px 0px rgba(198, 200, 224, 1);
+
+text-align: center;
+}
+
+.formCheck{
+    padding: 6px 35px;
+}
+
+.cardBody{
+    background-color: #f7f7f7; 
+}

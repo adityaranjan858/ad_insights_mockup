@@ -1,0 +1,41 @@
+.toggleIcons{
+    font-weight: 900;
+    padding: 11px;
+    border-radius: 50%;
+    color: white;
+    background-color : rgb(13,110,253);
+}
+.toggleIcon{
+    font-weight: 900;
+    padding: 11px;
+    border-radius: 50%;
+}
+.togglebtns{
+    text-align: end;
+    padding-right: 7px !important;
+}
+.doughnut{
+    width: fit-content;
+    height: 275px;
+}
+.toggle_chart_btn{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-right: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    background-color: #c9c7cb;
+}
+.toggle_table_btn{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-left: 0;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #c9c7cb;
+}
+
+.toggleIcon:hover{
+    color: white;
+    background-color : rgb(13,110,253);
+}

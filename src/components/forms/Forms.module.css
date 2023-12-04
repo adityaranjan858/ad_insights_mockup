@@ -1,0 +1,13 @@
+.main_container{
+    height: 100%!important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: calc(100vh - 165px);
+  }
+
+  small{
+    font: small-caption;
+    font-style: italic;
+    color: red;
+  }

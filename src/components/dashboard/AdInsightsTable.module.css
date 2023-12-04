@@ -1,0 +1,32 @@
+.totalRow{
+    background-color: #f8f9fa !important;
+}
+.upDownArrow{
+    display: flex;
+    flex-direction: column-reverse;
+    margin-left: 6px;
+}
+.upDownArrow i{
+    font-weight: 600 !important;
+    font-size: smaller;
+    line-height: 0.6 !important;
+    cursor: pointer;
+}
+.alignData{
+    text-align: right;
+}
+
+tr th h6{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+h6{
+    margin-bottom: 0;
+}
+
+.table {
+    --bs-table-bg: unset !important;
+    margin-bottom: 0;
+}

@@ -1,0 +1,21 @@
+.main_container{
+    display: flex !important;
+    align-items: center;
+}
+
+.modal_body{
+       /* padding: 20px 125px; */
+       width: 390px;
+       max-width: 100%;
+       height: 25vh;
+       align-items: center;
+       display: flex;
+       font-size: larger;
+       font-weight: 600;
+       justify-content: center;
+}
+.item{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
