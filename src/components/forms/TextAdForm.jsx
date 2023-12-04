@@ -69,6 +69,7 @@ const TextAdForm = () => {
     e.preventDefault();
     const isFormValid = validateForm(); 
     if (isFormValid) {
+      console.log(formData);
       dispatch(alertMessage("Submitted"));
       dispatch(handleShow(true));
       
