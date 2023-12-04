@@ -9,9 +9,9 @@ import { store } from './app/store.jsx';
 import {BrowserRouter} from "react-router-dom"
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  // use this only for production: basename="ad_insights_mockup"
+  // this is only for production: basename="ad_insights_mockup"
   <React.StrictMode>
-    <BrowserRouter> 
+    <BrowserRouter basename="ad_insights_mockup"> 
     <Provider store={store}>  
     <App />
     </Provider>
