@@ -1,5 +1,5 @@
 {
-  "homepage": "https://adityaranjan858.github.io/ad_insights_mockup/",
+  "homepage": "https://adityaranjan858.github.io/ad_insights_mockup",
   "name": "ad_insights_mockup",
   "private": true,
   "version": "0.0.0",
@@ -24,7 +24,8 @@
     "react-bootstrap": "^2.9.1",
     "react-dom": "^18.2.0",
     "react-redux": "^8.1.3",
-    "react-router-dom": "^6.20.0"
+    "react-router-dom": "^6.20.0",
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",
